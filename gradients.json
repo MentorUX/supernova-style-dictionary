@@ -1,0 +1,3280 @@
+{
+  "gradient": {
+    "gradient": {
+      "warm-flame": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ff9a9eff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fad0c4ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ff9a9eff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fad0c4ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "night-fade": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#a18cd1ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fbc2ebff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#a18cd1ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fbc2ebff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "juicy-peach": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5000000000000001
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffecd2ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fcb69fff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffecd2ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fcb69fff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "sunny-morning": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5000000000000001
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f7ce68ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fbab7eff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f7ce68ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fbab7eff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "winter-neva": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#a1c4fdff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#c2e9fbff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#a1c4fdff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#c2e9fbff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "loupe-fiesta": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#105efbff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#199afbff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#105efbff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#199afbff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "soft-grass": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5000000000000001
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#deecddff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#c1dfc4ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#deecddff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#c1dfc4ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "ripe-malinka": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5000000000000001
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f093fbff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f5576cff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f093fbff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f5576cff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "new-york": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ace0f9ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fff1ebff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ace0f9ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fff1ebff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "plum-plate": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5000000000000001
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#667eeaff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#764ba2ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#667eeaff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#764ba2ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "light-mist": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e8e8e8ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e8e8e8ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "miami-shore": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#5d45f9ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#267debff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#5d45f9ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#267debff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "vanusa": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#89216bff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#da4453ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#89216bff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#da4453ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "ocean-view": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#3f2b96ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#a8c0ffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#3f2b96ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#a8c0ffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "sandy-bleue": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffe8b7ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#b8d8ffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffe8b7ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#b8d8ffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "quepal": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#38ef7dff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#11998eff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#38ef7dff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#11998eff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "sublime-light": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#6a82fbff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fc5c7dff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#6a82fbff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fc5c7dff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "lawrencium": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#24243eff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#0f0c29ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#24243eff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#0f0c29ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "happy-people": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#96c93dff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#00b09bff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#96c93dff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#00b09bff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "delicate": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#d3cce3ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e9e4f0ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#d3cce3ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e9e4f0ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "orange-fun": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fc4a1aff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f7b733ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#fc4a1aff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#f7b733ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "purpink": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#7f00ffff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e100ffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#7f00ffff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e100ffff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "dull-days": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#c9d6ffff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e2e2e2ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#c9d6ffff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#e2e2e2ff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "scooter": {
+        "left-to-right": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.5
+                },
+                "y": {
+                  "type": "size",
+                  "value": 3.0616171314629196e-17
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#5b86e5ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#36d1dcff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "top-to-bottom": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 2.220446049250313e-16
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.4999999999999999
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#5b86e5ff"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#36d1dcff"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      },
+      "overlay": {
+        "dark-bottom-shade": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#30303000"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#303030d9"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "dark-top-shade": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.006083714979852051
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.006083714979852051
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.012167440999593378
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#303030d9"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#30303000"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "light-bottom-shade": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 1
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.5
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffff00"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffffd9"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        },
+        "light-top-shade": {
+          "value": {
+            "to": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.006083714979852051
+                },
+                "y": {
+                  "type": "size",
+                  "value": 1
+                }
+              }
+            },
+            "from": {
+              "type": "point",
+              "value": {
+                "x": {
+                  "type": "size",
+                  "value": 0.006083714979852051
+                },
+                "y": {
+                  "type": "size",
+                  "value": 0.012167440999593378
+                }
+              }
+            },
+            "type": {
+              "type": "string",
+              "value": "Linear"
+            },
+            "aspectRatio": {
+              "type": "size"
+            },
+            "stops": {
+              "0": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 0
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffffd9"
+                }
+              },
+              "1": {
+                "type": "gradientStop",
+                "position": {
+                  "type": "size",
+                  "value": 1
+                },
+                "color": {
+                  "type": "color",
+                  "value": "#ffffff00"
+                }
+              }
+            }
+          },
+          "type": "gradient"
+        }
+      }
+    }
+  }
+}
